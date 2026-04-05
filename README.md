@@ -181,5 +181,3 @@ Configure a **base URL** como `http://localhost:8081` e teste os endpoints lista
 **Desenvolvido com 💙 para a disciplina de Desenvolvimento de APIs**
 
 </div>
-
-O conteúdo permaneceu 100% intacto, apenas a apresentação visual foi aprimorada para um visual mais moderno e profissional.
